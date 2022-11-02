@@ -1,0 +1,3 @@
+git is cli
+github is a vcs/scm vendor
+gitlab is a vcs/scm vendor
